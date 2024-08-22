@@ -1,0 +1,4 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://github.com/Shakil1294/pcv/blob/main/pcv.png" group-title="Padma Online",Padma Cable Vision
+https://vstechs.in/live/Devine/index.m3u8
