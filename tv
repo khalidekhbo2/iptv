@@ -1,0 +1,4 @@
+#EXTM3U
+#KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="Padma Online",Star Jalsha HD
+http://tv.cloudcdn.me/live.ts?channelId=116&uid=10281&deviceMac=00:1A:79:33:E9:58
