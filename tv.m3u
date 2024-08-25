@@ -5,6 +5,7 @@ https://vstechs.in/live/Devine/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="A",Padma Cable Vision (UDP)
 udp://@192.168.0.106:1234
 
+#BanglaChannel
 #EXTINF:-1,Ekushey Television
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1,Deepto TV
