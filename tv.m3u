@@ -228,6 +228,10 @@ http://124.29.225.205:8000/play/a050/index.m3u8
 #Cartoon
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick
 http://124.29.225.205:8000/play/a05v/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/POGO.png" group-title="Cartoon",POGO (Hindi)
+https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Cartoon_Network.png" group-title="Cartoon",Cartoon Network (Hindi)
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
 
 #Extra
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/poster_20210706_165834.jpg" group-title="Music",Mastiii - India's No.1 Music and Youth Channel
