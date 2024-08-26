@@ -1,8 +1,8 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="A",Padma Cable Vision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#A",Padma Cable Vision
 https://vstechs.in/live/Devine/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="A",Padma Cable Vision (UDP)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#A",Padma Cable Vision (UDP)
 udp://@192.168.0.106:1234
 
 #BanglaChannel
