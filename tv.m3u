@@ -215,9 +215,13 @@ http://176.119.29.52/live.ts?channelId=102479&uid=15531&deviceMac=00:1A:79:09:2B
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Star_Jalsha_logo.png" group-title="Entertainment",Star Jalsha HD
 http://tv.cloudcdn.me/live.ts?channelId=116&uid=10281&deviceMac=00:1A:79:33:E9:58
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Star_Jalsha_logo.png" group-title="Entertainment",Star Jalsha HD Link 2
-https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
+http://217.20.112.199/starjalshahd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Star_Jalsha_logo.png" group-title="Entertainment",Star Jalsha HD Link 3
-https://cdn3.pishow.tv/live/283/master.m3u8
+http://103.151.60.174/manikvai@hoichoi24.com
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="Movies", JALSHA MOVIES HD
+http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8?token=2be3b471b82cd70d481ddcc9ceaa68e4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="MOVIES", JALSHA MOVIES HD Link 2
+http://tv.cloudcdn.me/live.ts?channelId=117&uid=5284&deviceMac=00:1A:79:17:C0:71
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/StarPlus_Logo.png" group-title="Entertainment",Star Plus HD
 http://tv.cloudcdn.me/live.ts?channelId=200&uid=15531&deviceMac=00:1A:79:09:2B:88
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/StarPlus_Logo.png" group-title="Entertainment",Star Plus HD Link 2
@@ -238,6 +242,12 @@ http://212.102.34.8:9080/StarMoviesHD/video.m3u8
 http://124.29.225.205:8000/play/a04b/index.m3u8
 
 #Colors
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/170px-Colors_Bangla.png" group-title="ENTERTAINMENT", COLORS BANGLA HD
+http://217.20.112.199/colorsbangla/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/Colors_Bangla.png/170px-Colors_Bangla.png" group-title="ENTERTAINMENT", COLORS BANGLA HD Link 2
+http://ekdilhai.pro/IN_ColorsBengali/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NF5M3vk/20240803-164348.png" group-title="KOLKATA", COLORS BANGLA CINEMA
+http://14.102.123.50:5001/live/1657.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/colors_tv_hd.png" group-title="Entertainment",Colors TV HD
 http://176.119.29.61/live.ts?channelId=160&uid=10281&deviceMac=00:1A:79:33:E9:58&redir=1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/colors_tv_hd.png" group-title="Entertainment",Colors TV HD Link 2
@@ -275,7 +285,7 @@ https://mhdtvweb.com/sliv/stream.php?id=sony-marathi&e=.m3u8|Referer=https://mhd
 #EXTINF:-1 tvg-id="sony-pal" tvg-name="Sony Pal" tvg-country="IN" tvg-logo="https://i.postimg.cc/nrQ6V7MG/SONY-PAL.png" tvg-chno="sony-pal" group-title="Nayeem's SonyLIV",Sony Pal
 https://mhdtvweb.com/sliv/stream.php?id=sony-pal&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 #EXTINF:-1 tvg-id="sony-aath" tvg-name="Sony Aath" tvg-country="IN" tvg-logo="https://i.postimg.cc/bY12WVTm/SONY-AATH.png" tvg-chno="sony-aath" group-title="Nayeem's SonyLIV",Sony Aath
-https://mhdtvweb.com/sliv/stream.php?id=sony-aath&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
+http://tv.cloudcdn.me/live.ts?channelId=44150&uid=13603&deviceMac=00:1A:79:64:B4:A6
 #EXTINF:-1 tvg-id="sony-yay" tvg-name="Sony Yay" tvg-country="IN" tvg-logo="https://i.postimg.cc/qRxtS9Gy/SONY-YAY.png" tvg-chno="sony-yay" group-title="Nayeem's SonyLIV",Sony Yay
 https://mhdtvweb.com/sliv/stream.php?id=sony-yay&e=.m3u8|Referer=https://mhdtvweb.com//&key=thenayeemparvez
 #EXTINF:-1 tvg-id="sony-max-hd" tvg-name="Sony MAX HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/XYF71G8F/SONY-MAX-HD.png" tvg-chno="sony-max-hd" group-title="Nayeem's SonyLIV",Sony MAX HD
@@ -372,14 +382,21 @@ http://124.29.225.205:8000/play/a04c/index.m3u8
 http://124.29.225.205:8000/play/a050/index.m3u8
 
 #Cartoon
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zmDWZfN/20240813-063935.png" group-title="KIDS", NICK BANGLA
+http://14.102.123.50:5001/live/1341.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8rzSwnH/20240803-101416.png" group-title="KIDS", SONIC BANGLA
+https://colorsscreen.com/live.php?id=1345&extension=.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ys79Yrg/20240803-101434.png" group-title="KIDS", SONY YAY BANGLA
+http://103.151.60.174:553/
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/RONGEEN_TV.png" group-title="Cartoon",Rongeen TV
+https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick
 http://124.29.225.205:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/POGO.png" group-title="Cartoon",POGO (Hindi)
 https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Cartoon_Network.png" group-title="Cartoon",Cartoon Network (Hindi)
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/RONGEEN_TV.png" group-title="Cartoon",Rongeen TV
-https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KIDS CREATION" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png" group-title="KIDS CHANNELS", KIDS CREATION
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="KIDS CHANNELS", CARTOON NETWORK HD
@@ -395,7 +412,7 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/2dB7d8n/Picsart-23-07-02-10-59-10-285.png" group-title="KIDS CHANNELS", DESI CHANNEL
 https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Khushboo_Bangla.jpeg" group-title="KIDS CHANNELS", KHUSHBOO BANGLA
-http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+https://cdn3.pishow.tv/live/283/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/zFFBFCS/Picsart-23-06-07-18-33-22-817.png" group-title="KIDS CHANNELS", DISCOVERY KIDS
 https://i.mjh.nz/SamsungTVPlus/INBC15000054I.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TOON GOOGLE" tvg-logo="https://i.imgur.com/oyIMxzM.png" group-title="KIDS CHANNELS", TOON GOOGLE
