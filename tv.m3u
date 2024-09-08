@@ -7,9 +7,9 @@ rtmp://vstechs.in/live/Devine
 
 #BanglaChannel
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NtQ4fMf/Picsart-23-06-12-22-23-10-612.png", BTV HD
-http://103.230.105.252:1935/live/btv/manifest_w1943401517.mpd
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/Btv-g.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NtQ4fMf/Picsart-23-06-12-22-23-10-612.png", BTV WORLD
-https://edge01.iptv.digijadoo.net/live/btv_world/playlist.m3u8?md5=14a8h5HalXXbld_rJ-nXpA&expires=1724916187&user=ef71b837ceef4cd18a6cf7069722d83d
+http://172.105.123.238:18002/play/a038
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/GTVBangladesh.png" group-title="Sports",GTV HD
 https://edge01.iptv.digijadoo.net/live/gazi_tv_hd/playlist.m3u8?md5=2bH0fMaCD0TB9d5OrXXEVg&expires=1725164832&user=8333f5cef8e441a0abd75ae8344d39d7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/T_Sports.png" group-title="Sports", T SPORTS HD Link 1
@@ -24,6 +24,8 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2021/05/Deentv-150x150.png",Deen TV UK
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deentv.stream/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",DESH TV
+https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deshtv.stream/live-orgin/deshtv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tQtY9CG/Picsart-23-06-07-11-18-32-725.png",DBC News
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.jagobd.com/wp-content/uploads/2020/05/colosaltvhd-150x150.jpg",Colosal TV
@@ -176,6 +178,8 @@ https://dzkyvlfyge.erbvr.com/PeaceTvBangla/tracks-v3a1/mono.m3u8?sid=qRApYCh4AUm
 https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/27xSN3Z/20240803-172527.png" group-title="RELIGIOUS", ISLAM BANGLA
 https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3u8
+#EXTINF:-1 group-title="BANGLA IPTV" tvg-logo="https://www.deshitv.com/images//bangla_logo/DeshTV24-BanglaLogo.png",DESHI TV
+https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 
 #Toffee
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/44878/logo/240x240/mobile_logo_889093001687255310.png" group-title="TOFFEE", TOFFEE DRAMAS
@@ -390,7 +394,6 @@ https://colorsscreen.com/live.php?id=1345&extension=.m3u8
 http://103.151.60.174:553/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/RONGEEN_TV.png" group-title="Cartoon",Rongeen TV
 https://server.thelegitpro.in/rongeentv/rongeentv/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Nick.png" group-title="Cartoon",Nick
 http://124.29.225.205:8000/play/a05v/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/POGO.png" group-title="Cartoon",POGO (Hindi)
@@ -462,6 +465,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
 
 #Extra2
+#EXTINF:-1 group-title="HINDI MUSIC",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22973/mastiii/poster_20210706_165834.jpg" group-title="Music",Mastiii - India's No.1 Music and Youth Channel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
 #EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/23111/9xm/poster_20240521_223853.jpg" group-title="Music",9XM
