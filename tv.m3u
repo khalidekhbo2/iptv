@@ -1,9 +1,13 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#Padma Online",Padma Cable Vision
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#Local Channel",Padma Cable Vision
 https://vstechs.in/live/Devine/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#Padma Online",Padma Cable Vision (RTMP)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#Local Channel",Padma Cable Vision (RTMP)
 rtmp://vstechs.in/live/Devine
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/desi_tahshan.jpg" group-title="#Local Channel",DESI TASHAN
+https://cloudcdn.in/livetv/DesiTashan/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sgcn_music.png" group-title="#Local Channel",SGCN MUSIC
+https://stream.onecloudlive.in/sgcn/sgcnmusic/index.m3u8
 
 #BanglaChannel
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NtQ4fMf/Picsart-23-06-12-22-23-10-612.png", BTV HD
