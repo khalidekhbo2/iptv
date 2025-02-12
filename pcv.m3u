@@ -1,5 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#Padma Online",Padma Cable Vision
-http://192.168.0.100:1935/pcv/pcv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#Padma Online",Padma Cable Vision (RTMP)
-rtmp://192.168.0.100:1935/pcv/pcv
