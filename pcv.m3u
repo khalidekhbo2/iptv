@@ -1,18 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (BDIX)
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (BDIX RTMP)
-rtmp://padmaonline.duckdns.org:1935/pcv/pcv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (IN Server)
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (IN RTMP)
-rtmp://vstechs.in/live/Devine
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (Local)
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",PCV (Local RTMP)
-rtmp://10.20.10.20:1935/pcv/pcv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#SDCV",Shariatpur Digital Cable Vision
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#SDCV",Shariatpur Digital Cable Vision (RTMP)
-rtmp://padmaonline.duckdns.org:1935/sdcv/sdcv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (UDP)
 udp://@192.168.0.104:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (Local RTMP)
+rtmp://10.20.10.20:1935/pcv/pcv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (BDIX RTMP)
+rtmp://padmaonline.duckdns.org:1935/pcv/pcv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (IN RTMP)
+rtmp://vstechs.in/live/Devine
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#SDCV",Shariatpur Digital Cable Vision (RTMP)
+rtmp://padmaonline.duckdns.org:1935/sdcv/sdcv
