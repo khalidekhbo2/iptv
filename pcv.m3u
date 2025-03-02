@@ -9,3 +9,5 @@ rtmp://padmaonline.duckdns.org:1935/pcv/pcv
 rtmp://vstechs.in/live/Devine
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#SDCV",Shariatpur Digital Cable Vision (RTMP)
 rtmp://padmaonline.duckdns.org:1935/sdcv/sdcv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (UDP)
+udp://@103.190.132.15:1234
