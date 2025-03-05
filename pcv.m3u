@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (UDP)
+udp://@192.168.100.100:1234
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (RTMP)
+rtmp://103.190.132.15:1935/pcv/pcv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#SDCV",Shariatpur Digital Cable Vision (RTMP)
+rtmp://103.190.132.15:1935/sdcv/sdcv
