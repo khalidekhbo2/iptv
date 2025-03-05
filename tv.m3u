@@ -8,8 +8,8 @@ rtmp://103.190.132.15:1935/pcv/pcv
 http://103.190.132.15:1935/sdcv/sdcv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#Padma Online",Shariatpur Digital Cable Vision (RTMP)
 rtmp://103.190.132.15:1935/sdcv/sdcv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#Local Channel",Padma Cable Vision (TEST)
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#Local Channel",L TV (TEST)
+rtmp://103.190.132.15:1935/LTV/ltv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/desi_tahshan.jpg" group-title="#Local Channel",DESI TASHAN
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sgcn_music.png" group-title="#Local Channel",SGCN MUSIC
