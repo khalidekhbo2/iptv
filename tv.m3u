@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#IP TV",Padma Cable Vision (BDIX RTMP) 
 rtmp://padmaonline.duckdns.org/pcv/pcv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#IP TV",Padma Cable Vision (BDIX HLS)
-http://rtmp://padmaonline.duckdns.org/pcv/pcv:1935/pcv/pcv/playlist.m3u8
+http://padmaonline.duckdns.org/pcv/pcv:1935/pcv/pcv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#IP TV",Padma Cable Vision (India Server)
 https://vstechs.in/live/Devine/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#SDCV",Shariatpur Digital Cable Vision
