@@ -88,8 +88,7 @@ http://103.163.247.39/local_out/duronto/video.m3u8?token=At5F1MFZYnciB3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/220px-Logo_of_Ananda_TV.svg.png",Ananda TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/anandatv.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",NEXUS Television
-https://tvs1.aynaott.com/nexustv/index.m3u8?token=6fd9cbd8212f81e4e2cda2171af18e8e8bce9267-11110a200b4a358cd6a00ad42d3db6eb-1742451426-1742450526&amp;remote=no_check_ip
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d3/Nexus_Television_Logo.png",NEXUS Televisionhttps://tvs1.aynaott.com/nexustv/index.m3u8?token=6fd9cbd8212f81e4e2cda2171af18e8e8bce9267-11110a200b4a358cd6a00ad42d3db6eb-1742451426-1742450526&amp;remote=no_check_ip
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/250px-Ekhon_Logo.png",Ekhon TV
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/0d/Ekhon_Logo.png/250px-Ekhon_Logo.png",Ekhon TV (Link 2)
