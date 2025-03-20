@@ -1,9 +1,21 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (UDP)
 udp://@20.10.20.10:1234
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (RTMP)
-rtmp://padmaonline.duckdns.org:1935/pcv/pcv
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#SDCV",Shariatpur Digital Cable Vision (RTMP)
-rtmp://padmaonline.duckdns.org:1935/pcv/sdcv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (HLS)
+http://padmaonline.duckdns.org:1935/pcv/pcv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (MPEG-DASH)
 http://padmaonline.duckdns.org:1935/pcv/pcv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (RTMP)
+rtmp://padmaonline.duckdns.org:1935/pcv/pcv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (RTSP)
+rtsp://padmaonline.duckdns.org:1935/pcv/pcv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/sdcv.png" group-title="#SDCV",Shariatpur Digital Cable Vision (RTMP)
+rtmp://padmaonline.duckdns.org:1935/pcv/sdcv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (HLS) Local
+http://10.20.10.20:1935/pcv/pcv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (MPEG-DASH) Local
+http://10.20.10.20:1935/pcv/pcv/manifest.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (RTMP) Local
+rtmp://10.20.10.20:1935/pcv/pcv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#PCV",Padma Cable Vision (RTSP) Local
+rtsp://10.20.10.20:1935/pcv/pcv
