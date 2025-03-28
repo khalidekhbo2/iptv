@@ -136,7 +136,8 @@ http://xtv.ooo:8080/live/danyear12/am809100/109987.ts
 http://kst.moonplex.net:8080/CH3/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",Star Jalsha HD
 #https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
-http://114.129.13.246:4519/jalsha24/video.m3u8
+#http://114.129.13.246:4519/jalsha24/video.m3u8
+http://tv.bdiptv.store/live/restream/restream/52.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGqiOBYecrK6JrYC4gq5t-ISoacG6TC15kxA&s" group-title="Movies", JALSHA MOVIES HD
 http://humsab.xyz/IN_JALSHAMOVIES/index.m3u8?token=2be3b471b82cd70d481ddcc9ceaa68e4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/StarPlus_Logo.png" group-title="Entertainment",Star Plus HD
