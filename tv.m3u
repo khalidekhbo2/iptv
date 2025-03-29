@@ -10,7 +10,7 @@ https://vstechs.in/PADMA_TV/index.m3u8
 http://padmaonline.duckdns.org:1935/pcv/sdcv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/desi_tahshan.jpg" group-title="#IP TV",DESI TASHAN
 https://cloudcdn.in/livetv/DesiTashan/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/sami_tv" group-title="#IP TV",SAMI TV
+#EXTINF:-1 tvg-logo="https://github.com/Shakil1294/pcv/blob/main/logo/sami_tv.png" group-title="#IP TV",SAMI TV
 http://padmaonline.duckdns.org:1935/SamiTV/samitv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/ltv.png" group-title="#IP TV",LTV (BDIX)
 http://padmaonline.duckdns.org:1935/LTV/ltv/playlist.m3u8
