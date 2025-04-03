@@ -1,5 +1,7 @@
 #EXTM3U
 #KODIPROP:inputstream.adaptive.manifest_type=m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/logo/Shakil1294.png" group-title="#",Script By ⏤͟͞DEViNE𓅓
+https://t.me/Shakil2000
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#IP TV",Padma Cable Vision (BDIX RTMP) 
 rtmp://padmaonline.duckdns.org/pcv/pcv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Shakil1294/pcv/main/pcv_logo.png" group-title="#IP TV",Padma Cable Vision (BDIX HLS)
